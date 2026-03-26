@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Vicklar logo mark">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6de3ff"/>
+      <stop offset="100%" stop-color="#1f89ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="#0b1221"/>
+  <circle cx="128" cy="128" r="92" fill="none" stroke="url(#g1)" stroke-width="12"/>
+  <path d="M84 82 L124 174 L177 68 L147 68 L124 122 L101 68 Z" fill="url(#g1)"/>
+  <path d="M127 130 L194 75 L212 89 L127 184 L100 159 L115 145 Z" fill="#2aa7ff"/>
+  <path d="M184 76 L212 84 L195 101 Z" fill="#1b6ec6"/>
+</svg>
