@@ -1,0 +1,16 @@
+Vicklar Website Roadmap — updated 24 April 2026
+
+Done in this package:
+- enterprise-grade homepage refresh;
+- product positioning for Vicklar Driver + Employer Portal;
+- new Employer Portal page;
+- updated Driver app page with Logbook, tacho slip scan, Documents, Checks, Fuel, Expenses, Pay, Driver CV and cloud direction;
+- expanded Privacy Policy for Google Play camera/photo/location/cloud/account transparency;
+- account deletion page suitable for app-store deletion link workflow;
+- updated support/contact/terms/account/404 pages;
+- updated sitemap and README with Play Console URLs.
+
+Next website tasks after deploy:
+- add screenshots/demo images when app UI is final;
+- add pricing page after store pricing and employer package are final;
+- add portal login link only when portal.vicklar.com is ready for public use.
