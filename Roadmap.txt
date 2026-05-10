@@ -1,7 +1,7 @@
 Vicklar Website Roadmap — updated 24 April 2026
 
 Done in this package:
-- enterprise-grade homepage refresh;
+- user-friendly homepage copy refresh;
 - product positioning for Vicklar Driver + Employer Portal;
 - new Employer Portal page;
 - updated Driver app page with Logbook, tacho slip scan, Documents, Checks, Fuel, Expenses, Pay, Driver CV and cloud direction;
@@ -14,3 +14,10 @@ Next website tasks after deploy:
 - add screenshots/demo images when app UI is final;
 - add pricing page after store pricing and employer package are final;
 - add portal login link only when portal.vicklar.com is ready for public use.
+
+
+2026-05-10 v13 site wording and tutorial expansion:
+- removed enterprise-grade wording from public-facing website copy;
+- added Basic/Pro EUR + VAT and local currency pricing note;
+- expanded tutorials page with menu-by-menu written instructions and anchor submenu;
+- refreshed footer wording across public pages.
