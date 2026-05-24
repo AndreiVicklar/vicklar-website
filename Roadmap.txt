@@ -1,23 +1,18 @@
-Vicklar Website Roadmap — updated 24 April 2026
+Vicklar Website Roadmap — updated 24 May 2026
 
 Done in this package:
-- user-friendly homepage copy refresh;
-- product positioning for Vicklar Driver + Employer Portal;
-- new Employer Portal page;
-- updated Driver app page with Logbook, tacho slip scan, Documents, Checks, Fuel, Expenses, Pay, Driver CV and cloud direction;
-- expanded Privacy Policy for Google Play camera/photo/location/cloud/account transparency;
-- account deletion page suitable for app-store deletion link workflow;
-- updated support/contact/terms/account/404 pages;
-- updated sitemap and README with Play Console URLs.
+- repositioned public product language around Vicklar Driver App + Vicklar Back Office;
+- kept employer-portal.html as the existing URL for continuity, but replaced the visible product name with Back Office;
+- refreshed Home, Products, Back Office, Support, Contact and Account pages;
+- added current product capabilities to the public copy: loads, dispatch, POD regeneration, damage proof, load height, company checks, fleet/storage direction, templates and operational evidence;
+- added mailto fallback behaviour: email buttons still open the email client and also copy office@vicklar.com to clipboard with a small toast message;
+- refreshed footer wording across public pages.
 
 Next website tasks after deploy:
-- add screenshots/demo images when app UI is final;
-- add pricing page after store pricing and employer package are final;
-- add portal login link only when portal.vicklar.com is ready for public use.
+- add screenshots/demo images when the app and Back Office UI are final;
+- add pricing/package page after company package and store pricing are final;
+- add portal.vicklar.com login link only when the Back Office login is ready for public use;
+- update legal/product terms again before public launch if company agreements or subscription language changes.
 
-
-2026-05-10 v13 site wording and tutorial expansion:
-- removed enterprise-grade wording from public-facing website copy;
-- added Basic/Pro EUR + VAT and local currency pricing note;
-- expanded tutorials page with menu-by-menu written instructions and anchor submenu;
-- refreshed footer wording across public pages.
+Historic notes:
+- v13 added user-friendly pricing/tutorial pages and app-store support pages.
