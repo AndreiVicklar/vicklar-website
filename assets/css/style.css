@@ -9,3 +9,11 @@
 .tutorial-nav{display:flex;flex-wrap:wrap;gap:10px}.tutorial-nav a{min-height:40px;display:inline-flex;align-items:center;padding:0 13px;border-radius:999px;border:1px solid var(--line);background:rgba(255,255,255,.025);color:var(--muted);font-size:14px;font-weight:800}.tutorial-nav a:hover{color:var(--text);border-color:rgba(46,166,255,.45);background:rgba(46,166,255,.08)}.tutorial-grid{align-items:stretch}.tutorial-card{scroll-margin-top:96px}.tutorial-card .clean-list{padding-left:22px}.tutorial-back{display:inline-flex;margin-top:12px;color:#cfe8ff;font-weight:800;font-size:14px}.tutorial-back:hover{text-decoration:underline}
 
 .mail-toast{position:fixed;left:50%;bottom:24px;z-index:1000;transform:translate(-50%,18px);opacity:0;pointer-events:none;padding:12px 16px;border-radius:14px;border:1px solid rgba(46,166,255,.28);background:rgba(15,26,45,.96);color:var(--text);box-shadow:var(--shadow);font-size:14px;font-weight:800;transition:opacity .18s ease,transform .18s ease}.mail-toast.show{opacity:1;transform:translate(-50%,0)}
+
+
+/* fix423g website polish: app icon branding and balanced hero title */
+.brand{display:inline-flex;align-items:center;gap:10px;font-weight:900;letter-spacing:.03em;color:var(--text)}
+.brand img{width:38px;height:38px;border-radius:11px;object-fit:cover;box-shadow:0 0 0 1px rgba(120,227,255,.22),0 10px 24px rgba(46,166,255,.16)}
+.brand span{font-size:14px;line-height:1}
+.hero-card-large h1{font-size:clamp(28px,2.45vw,32px);letter-spacing:-.65px;line-height:1.12;max-width:22ch}
+@media(max-width:900px){.brand img{width:34px;height:34px}.hero-card-large h1{font-size:clamp(30px,8vw,38px)}}
